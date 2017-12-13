@@ -1,1 +1,1 @@
-![Resume](images/El_Resume.pdf)
+![Resume](El_Resume.pdf)
