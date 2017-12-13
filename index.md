@@ -1,7 +1,12 @@
-## Hello, World!
+## Hello, Bay Area!
 
-I am a software engineer in Berkeley, CA. Most recently, I co-created Conclave,
-a collaborative peer-to-peer text editor that runs in the browser. Check it out!
+I am a software engineer in Berkeley, CA, currently looking for my next opportunity.
+At work, I solve problems with my logical brain and bring people together with
+my emotional brain. At home, I make delicious food and beautiful music using my
+creative brain and take care of my son and our cat with all my heart.
+
+Most recently, I co-created Conclave, a collaborative peer-to-peer text editor
+that runs in the browser. I think it's pretty cool. Check it out [here](https://conclave-app.herokuapp.com)!
 
 <!-- ### Markdown
 
