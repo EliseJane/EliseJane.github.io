@@ -8,6 +8,12 @@ creative brain and take care of my son and our cat with all my heart.
 Most recently, I co-created Conclave, a collaborative peer-to-peer text editor
 that runs in the browser. I think it's pretty cool. Check it out [here](https://conclave-app.herokuapp.com)!
 
+You can read any [blog posts](https://medium.com/@EliseJane) I've written on Medium.
+
+You can view and download my [resume](https://elisejane.github.io/resume).
+
+Feel free to [contact me](mailto:elisejpo@gmail.com) directly!
+
 <!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
