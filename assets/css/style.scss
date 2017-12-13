@@ -5,3 +5,11 @@
 header img {
   text-align: center;
 }
+
+#conclave {
+  float: left;
+}
+
+#conclave:after {
+  clear: left;
+}

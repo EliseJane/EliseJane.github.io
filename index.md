@@ -5,6 +5,8 @@ At work, I solve problems with my logical brain and bring people together with
 my emotional brain. At home, I make delicious food and beautiful music using my
 creative brain and take care of my son and our cat with all my heart.
 
+<img id='conclave' src='conclave.jpg' />
+
 Most recently, I co-created Conclave, a collaborative peer-to-peer text editor
 that runs in the browser. I think it's pretty cool. Check it out [here](https://conclave-app.herokuapp.com)!
 
