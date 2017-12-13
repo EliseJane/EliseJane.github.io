@@ -20,12 +20,11 @@ header img {
 }
 
 #conclave {
-  float: left;
-  width: 35%;
-  margin-top: -45px;
-  margin-left: -60px;
+  float: right;
+  width: 29%;
+  margin-top: -29px;
 }
 
 #conclave:after {
-  clear: left;
+  clear: right;
 }

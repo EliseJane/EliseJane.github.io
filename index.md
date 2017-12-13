@@ -6,18 +6,18 @@ my emotional brain. At home, I make delicious food and beautiful music using my
 creative brain and take care of my son and our cat with all my heart.
 <hr />
 
-<img id='conclave' src='eyes.png' />
+<img id='conclave' src='eyes.png' href="https://conclave-app.herokuapp.com" />
 
 Most recently, I co-created <span>Conclave</span>, a collaborative peer-to-peer text editor
 that runs in the browser. I think it's pretty cool. Check it out [here](https://conclave-app.herokuapp.com)!
 <hr />
 
-My [other projects](https://github.com/EliseJane) are open source on Github.
+All my [projects](https://github.com/EliseJane), including Conclave are open source on Github.
 <hr />
-You can read any [blog posts](https://medium.com/@EliseJane) I've written on Medium.
-
-You can view and download my [resume](https://elisejane.github.io/resume).
-
+You can read my [blog posts](https://medium.com/@EliseJane) on Medium.
+<hr />
+You can view and download my [resume](https://elisejane.github.io/resume) here.
+<hr />
 Feel free to [contact me](mailto:elisejpo@gmail.com) directly!
 
 <!-- ### Markdown
