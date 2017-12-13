@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Hello, World!
 
-You can use the [editor on GitHub](https://github.com/EliseJane/EliseJane.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a software engineer in Berkeley, CA. Most recently, I co-created Conclave,
+a collaborative peer-to-peer text editor that runs in the browser. Check it out!
 
 ### Markdown
 
