@@ -9,8 +9,7 @@ creative brain and take care of my son and our cat with all my heart.
 [![](./eyes.png)](https://conclave-app.herokuapp.com)
 
 Most recently, I co-created <span>Conclave</span>, a collaborative peer-to-peer text editor
-that runs in the browser. I think it's pretty cool. Check out the [live app](https://conclave-app.herokuapp.com)
-and find more information [here](https://conclave-team.github.io/conclave-site/)!
+that runs in the browser. I think it's pretty cool. Check out the [live web app](https://conclave-app.herokuapp.com) and find more [information here](https://conclave-team.github.io/conclave-site/)!
 <hr />
 
 All my [projects](https://github.com/EliseJane), including Conclave are open source on Github.
