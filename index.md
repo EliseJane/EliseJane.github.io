@@ -1,4 +1,4 @@
-## Hello, Bay Area!
+# Hello, Bay Area!
 
 I am a software engineer in Berkeley, CA, currently looking for my next opportunity.
 At work, I solve problems with my logical brain and bring people together with
@@ -13,7 +13,7 @@ that runs in the browser. I think it's pretty cool. Check it out [here](https://
 <hr />
 
 My [other projects](https://github.com/EliseJane) are open source on Github.
-
+<hr />
 You can read any [blog posts](https://medium.com/@EliseJane) I've written on Medium.
 
 You can view and download my [resume](https://elisejane.github.io/resume).
