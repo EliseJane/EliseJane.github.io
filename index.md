@@ -1,4 +1,4 @@
-# Hello, Bay Area!
+## Hello, Bay Area!
 
 I am a software engineer in Berkeley, CA, currently looking for my next opportunity.
 At work, I solve problems with my logical brain and bring people together with
