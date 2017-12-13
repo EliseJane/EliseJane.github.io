@@ -1,1 +1,1 @@
-<embed src="El_Resume.pdf" width="100%" height="100%" type='application/pdf'></embed>
+<embed src="El_Resume.pdf" width="100%" height="100%" type='application/pdf' />
