@@ -1,1 +1,1 @@
-![Resume](El_Resume.jpg)
+<img src="El_Resume.pdf" />
