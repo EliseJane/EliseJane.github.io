@@ -19,12 +19,12 @@ header img {
   text-align: center;
 }
 
-body img {
+section img {
   float: right;
   width: 29%;
   margin-top: -29px;
 }
 
-body img:after {
+section img:after {
   clear: right;
 }
