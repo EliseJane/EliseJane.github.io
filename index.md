@@ -16,7 +16,7 @@ All my [projects](https://github.com/EliseJane), including Conclave are open sou
 <hr />
 You can read my [blog posts](https://medium.com/@EliseJane) on Medium.
 <hr />
-You can view and download my [resume](https://elisejane.github.io/resume) here.
+You can view and download my [resume](El_Resume.pdf) here.
 <hr />
 Feel free to [contact me](mailto:elisejpo@gmail.com) directly!
 
