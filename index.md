@@ -1,6 +1,6 @@
 ## Hello, Bay Area!
 
-I am a full stack software engineer and my life takes place primarily in the Bay Area.
+I am a full stack software engineer whose life takes place primarily in the Bay Area.
 At work, I solve problems with my logical brain and bring people together with
 my emotional brain. At home, I make delicious food and beautiful music using my
 creative brain and take care of my son and our cat with all my heart.
